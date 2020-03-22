@@ -1,0 +1,43 @@
+crypto_initial_value = 4656;
+
+//some comment
+
+//initial value
+crypto_initial_value = 989898;
+
+//send it to function
+crypto_last_value = crypthography(crypto_initial_value);
+
+//assign random number to last value
+crypto_last_value = createRandomNumber();
+
+//comment comment
+if(crypto_initial_value == crypto_last_value) 
+{
+
+cryptography();
+
+//comment here,comment
+newCrypto = 10;
+lastCrypto = 60;
+
+done = false;
+
+}
+
+
+while(done = true){
+ if(newCrypto == 30){
+	done = false;
+ }
+newCrypto ++;
+
+}
+
+//this is a comment part,this part will never work
+
+newVariable = 10;
+
+if(newVariable == 20){
+ newVariable = 10;
+}
