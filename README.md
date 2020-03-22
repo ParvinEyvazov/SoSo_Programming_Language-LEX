@@ -16,6 +16,6 @@ We have "myfile.so" file that contains my language codes.
 Start Analysing with using this "a.out" and "myfile.so".
 
 ```bash
-first@computer$  ./a.out <<myfile.so
+first@computer$  ./a.out <myfile.so
 ```
 
