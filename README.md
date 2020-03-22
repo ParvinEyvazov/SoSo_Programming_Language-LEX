@@ -19,3 +19,17 @@ Start Analysing with using this "a.out" and "myfile.so".
 first@computer$  ./a.out <myfile.so
 ```
 
+## Example Result
+Let`s take some example code that written in this language.
+
+```java
+while(done = true ){
+if(newCrypto == 30) {
+ done = false;
+}
+newCrypto ++;
+}
+```
+
+
+
