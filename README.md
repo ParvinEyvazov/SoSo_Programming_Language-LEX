@@ -1,4 +1,15 @@
 # SoSo_Programming_Language
+## What is SoSo for?
+This language is for Cryptography. 
+There are 3 main Variable in the language:
+```java
+int crypto_initial_value;
+int crypto_last_value;
+int crypto_key;
+```
+"crypto_initial_value" is used for initial real value. Program assign a value to "crypto_last_value" with using "crypto_key".
+To create "crypto_last_value" program uses "cryptography()" function. This is a default function. (It called "FUNCTION_CRYPTO" in lexical analyasis.)
+
 ## How It works?
 Firstly run the Makefile
 ```bash
